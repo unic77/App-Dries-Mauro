@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.appdriesenmauro.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.appdriesenmauro.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauro\\.gradle\\daemon\\7.5\\com.example.appdriesenmauro.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\mauro\\.gradle\\daemon\\7.5\\com.example.appdriesenmauro.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mauro\\.gradle\\daemon\\7.5\\com.example.appdriesenmauro.app-mergeDebugResources-28:\\layout\\item_activity.xml",
+        "source": "C:\\Users\\mauro\\.gradle\\daemon\\7.5\\com.example.appdriesenmauro.app-main-31:\\layout\\item_activity.xml"
+    }
+]
